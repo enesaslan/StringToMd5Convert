@@ -1,6 +1,6 @@
 # string_to_md5
 
-A new Flutter project.
+Girilen string değerini md5 e çevirir, milletçek gizlilik kvkk falan bizim için ön planda ya ah ah :D
 
 ## Getting Started
 
